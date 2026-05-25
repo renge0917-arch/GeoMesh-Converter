@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LandXML xmlns="http://www.landxml.org/schema/LandXML-1.2" version="1.2">
+  <Surfaces>
+    <Surface name="現況地形">
+      <Definition surfType="TIN">
+        <Pnts>
+          <P id="1">35000.000 135000.000 50.000</P>
+          <P id="2">35001.000 135001.000 51.000</P>
+          <P id="3">35002.000 135000.500 49.500</P>
+        </Pnts>
+        <Faces>
+          <F>1 2 3</F>
+        </Faces>
+      </Definition>
+    </Surface>
+  </Surfaces>
+</LandXML>
